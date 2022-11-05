@@ -1,3 +1,8 @@
+/*
+->REVERSE A SINGLY LINKLIST
+->@copyrigt : Vedant Shukla
+*/
+
 #include "bits/stdc++.h"
 using namespace std;
 class node
