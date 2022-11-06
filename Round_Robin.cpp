@@ -49,7 +49,6 @@ public:
     int c = 0, i = 0;
 
     while (Head != NULL)
-    {
       {
         temp->rt = temp->rt - t;
         c = c + t;
@@ -68,7 +67,6 @@ public:
 
         temp = temp->next;
       }
-    }
   }
 
   void del(char x)
