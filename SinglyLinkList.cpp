@@ -1,6 +1,6 @@
 /*
 ->Impplementation of Singly LinkList
-->@copyrigt : Vedant Shukla
+->@copyrigt :Vedant Shukla
 */
 #include "bits/stdc++.h"
 using namespace std;
